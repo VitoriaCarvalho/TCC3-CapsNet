@@ -8,4 +8,3 @@ numpy==1.19.2
 matplotlib==3.3.2
 Pillow==8.1.0
 scikit_learn==0.24.0
-skimage==0.0
